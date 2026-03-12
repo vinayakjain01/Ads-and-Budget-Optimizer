@@ -58,8 +58,11 @@ The dashboard also allows filtering by **campaign name, age group, and date rang
 To identify profitable campaigns, I built visualizations comparing:
 
 • **Spend vs Revenue trends over time**
+
 • **ROAS by gender segmentation**
+
 • **Ad spend distribution across age groups**
+
 • **Campaign efficiency scatter plot (Spend vs ROAS)**
 
 This helped stakeholders quickly identify campaigns that were **high spend but low return**, allowing them to pause or optimize those campaigns. 
@@ -73,6 +76,7 @@ One of the core features of this dashboard is an **A/B testing comparison tool**
 Users can select two campaigns:
 
 • Variant A (Control)
+
 • Variant B (Challenger)
 
 The dashboard automatically compares them using:
@@ -111,7 +115,9 @@ Several campaigns generated **low or zero ROAS**, indicating inefficient budget 
 These campaigns were recommended for:
 
 • Budget reduction
+
 • Creative improvement
+
 • Audience targeting changes. 
 
 ---
@@ -121,6 +127,7 @@ These campaigns were recommended for:
 The demographic analysis revealed that:
 
 • **Age group 25-34 drove the highest ad spend engagement**
+
 • Female users generated slightly higher ROAS compared to male users. 
 
 These insights helped refine **target audience strategies**.
@@ -133,9 +140,12 @@ A **budget optimizer simulation** was created to test how budget reallocation co
 
 By shifting spend from low-ROAS campaigns to high-ROAS campaigns:
 
-• **Projected Revenue:** ₹82.6K
+• **Projected Revenue:**₹82.6K
+
 • **Projected ROAS:** 1.65
+
 • **Revenue Uplift:** ₹30K
+
 • **ROAS Improvement:** 18.5% 
 
 This provided stakeholders with a **data-driven approach to maximize marketing ROI**.
@@ -153,7 +163,9 @@ This provided stakeholders with a **data-driven approach to maximize marketing R
 Key steps:
 
 • Standardized date formats
+
 • Validated marketing metrics (spend, clicks, conversions)
+
 • Structured the dataset for analytical modeling
 
 ---
@@ -163,7 +175,9 @@ Key steps:
 The dataset was structured in Power BI to enable efficient analysis:
 
 • Campaign performance metrics
+
 • Demographic segmentation
+
 • Time-series campaign analysis
 
 ---
@@ -191,9 +205,13 @@ These measures helped evaluate campaign profitability and efficiency.
 The dashboard includes multiple visual analytics techniques:
 
 • KPI cards for high-level metrics
+
 • Scatter plot for campaign efficiency
+
 • Time series chart for spend vs revenue trends
+
 • Demographic distribution charts
+
 • A/B testing comparison visuals
 
 ---
