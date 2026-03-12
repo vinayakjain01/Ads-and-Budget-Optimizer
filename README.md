@@ -46,6 +46,8 @@ Provides a high-level overview of advertising performance using key KPIs:
 
 The dashboard also allows filtering by **campaign name, age group, and date range** to analyze performance across different segments. 
 
+<img width="1216" height="684" alt="image" src="https://github.com/user-attachments/assets/8def5398-28d9-47d2-81b9-e0a18e10879e" />
+
 ---
 
 ### 2️⃣ Campaign Efficiency Analysis
@@ -79,6 +81,8 @@ The dashboard automatically compares them using:
 • Traffic Lift
 
 The system then highlights the **winning campaign**, helping marketing teams make quick optimization decisions. 
+
+<img width="1220" height="689" alt="image" src="https://github.com/user-attachments/assets/30cfb014-f421-46e6-8385-d020eb959923" />
 
 ---
 
@@ -132,6 +136,8 @@ By shifting spend from low-ROAS campaigns to high-ROAS campaigns:
 • **ROAS Improvement:** 18.5% 
 
 This provided stakeholders with a **data-driven approach to maximize marketing ROI**.
+
+<img width="1214" height="682" alt="image" src="https://github.com/user-attachments/assets/f01efe9c-3062-4d2a-b0b0-8a92e58e9df4" />
 
 ---
 
