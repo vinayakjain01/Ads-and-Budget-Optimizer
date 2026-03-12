@@ -21,8 +21,11 @@ The raw advertising data was exported directly from **Facebook Ads Manager**, bu
 Key questions stakeholders needed answered:
 
 • Which campaigns generate the highest **Return on Ad Spend (ROAS)**?
+
 • Which campaigns are consuming budget but producing low returns?
+
 • How does performance vary across **age groups and gender segments**?
+
 • Which campaign should receive more budget through **A/B testing**?
 
 Without a proper analytics dashboard, it was difficult to make **data-driven advertising decisions**.
